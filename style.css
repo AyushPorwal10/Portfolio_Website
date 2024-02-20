@@ -312,7 +312,7 @@ nav .fas{
 }
 @media only screen and (max-width: 600px){
     #header{
-        background-image: url(images/newsmallayush.jpg);
+        background-image: url(aboutSection.jpg);
     }
     .header-text{
         margin-top: 100%;
