@@ -23,6 +23,7 @@ color: #0eb4c3;
 #header{
     width: 100%;
     height: 100vh;
+    
     background-size: cover;
     background-position: center;
 }
